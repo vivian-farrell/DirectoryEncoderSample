@@ -1,0 +1,21 @@
+{
+  "name": "directory-encoder-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "directory-encoder": "^0.7.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.2.3",
+    "directory-encoder": "^0.7.2",
+    "gulp": "^3.9.0",
+    "gulp-postcss": "^6.0.1",
+    "gulp-sourcemaps": "^1.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
